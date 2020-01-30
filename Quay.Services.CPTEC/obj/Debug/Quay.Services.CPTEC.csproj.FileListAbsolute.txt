@@ -1,0 +1,17 @@
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Services.CPTEC.dll
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Services.CPTEC.pdb
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Application.dll
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Domain.dll
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\AutoMapper.dll
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\System.ValueTuple.dll
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Application.pdb
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Domain.pdb
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\AutoMapper.pdb
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\AutoMapper.xml
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\Quay.Infra.CrossCutting.Helpers.pdb
+C:\Projects\Quay\Quay.Services.CPTEC\bin\Debug\System.ValueTuple.xml
+C:\Projects\Quay\Quay.Services.CPTEC\obj\Debug\Quay.Services.CPTEC.csprojAssemblyReference.cache
+C:\Projects\Quay\Quay.Services.CPTEC\obj\Debug\Quay.Services.CPTEC.csproj.CopyComplete
+C:\Projects\Quay\Quay.Services.CPTEC\obj\Debug\Quay.Services.CPTEC.dll
+C:\Projects\Quay\Quay.Services.CPTEC\obj\Debug\Quay.Services.CPTEC.pdb

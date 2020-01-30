@@ -1,0 +1,4 @@
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\bin\Debug\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\bin\Debug\Quay.Infra.CrossCutting.Helpers.pdb
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\obj\Debug\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\obj\Debug\Quay.Infra.CrossCutting.Helpers.pdb

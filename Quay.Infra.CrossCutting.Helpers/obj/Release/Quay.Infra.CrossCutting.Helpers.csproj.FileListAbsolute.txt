@@ -1,0 +1,5 @@
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\bin\Release\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\bin\Release\Quay.Infra.CrossCutting.Helpers.pdb
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\obj\Release\Quay.Infra.CrossCutting.Helpers.csprojAssemblyReference.cache
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\obj\Release\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Infra.CrossCutting.Helpers\obj\Release\Quay.Infra.CrossCutting.Helpers.pdb

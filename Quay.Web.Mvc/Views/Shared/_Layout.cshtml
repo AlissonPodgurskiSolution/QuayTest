@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="wIdth=device-wIdth, initial-scale=1.0">
+    <title>@ViewBag.Title - Quay Practical  Test</title>
+    @Styles.Render("~/Content/css")
+    <!--Import materialize.css-->
+    <link href="~/Content/materialize/css/materialize.min.css" rel="stylesheet"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="wIdth=device-wIdth, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+</head>
+<body>
+    <!--Import jQuery before materialize.js-->
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/materialize/materialize.min.js"></script>
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+    @RenderSection("scripts", false)
+</body>
+</html>

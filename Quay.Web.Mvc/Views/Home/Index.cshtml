@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div class="col-md-12 row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-content blue text-white">
+                <h6>Quay Practical Test</h6>
+            </div>
+            <div class="row">
+                <form id="formularioValidation" class="col col-md-12">
+                    <div class="row">
+                        <div class="input-field col-md-9 align-content-end">
+                            <label for="cidade" class="col-md-12">Informe o Nome da Cidade</label>
+                            <input id="cidade" type="text" class="autocomplete col-md-12" required>
+                            <span id="erro" style="display: none; font-size: small" class="red-text font-italic" data-error="wrong" data-success="right"></span>
+                        </div>
+                        <div class="input-field col-md-3">
+                            <button class="btn waves-effect blue" type="button" name="action" onclick="sendItem()">
+                                Go!
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6" id="tabelaPrevisao" style="display: none;">
+        <div class="card">
+            <div class="card-content blue text-white">
+                <h6>Quay Practical Test</h6>
+            </div>
+            <div class="card-action">
+                <div class="row">
+                    <div class="card-panel col s12 bold">
+                        <h5 id="headerPrevisao">Previsão do Tempo para ...</h5>
+                        <h6 id="previsaoUF">UF:</h6>
+                        <h6 id="previsaoDataConsulta">Data Consulta:</h6>
+                        <div class="card-panel border-radius-6 login-card bg-opacity-8">
+                            <table class="striped">
+                                <thead>
+                                    <tr>
+                                        <th>Data</th>
+                                        <th>Tempo</th>
+                                        <th>Máxima</th>
+                                        <th>Mínima</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tableResults">
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+    <script src="~/Scripts/Index/Index.js"></script>
+    <script src="http://jqueryvalidation.org/files/dist/additional-methods.min.js"></script>
+    
+}

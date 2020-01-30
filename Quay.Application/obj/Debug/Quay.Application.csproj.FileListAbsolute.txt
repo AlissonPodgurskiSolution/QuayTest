@@ -1,0 +1,15 @@
+C:\Projects\Quay\Quay.Application\bin\Debug\Quay.Application.dll
+C:\Projects\Quay\Quay.Application\bin\Debug\Quay.Application.pdb
+C:\Projects\Quay\Quay.Application\bin\Debug\AutoMapper.dll
+C:\Projects\Quay\Quay.Application\bin\Debug\Quay.Domain.dll
+C:\Projects\Quay\Quay.Application\bin\Debug\System.ValueTuple.dll
+C:\Projects\Quay\Quay.Application\bin\Debug\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Application\bin\Debug\Quay.Domain.pdb
+C:\Projects\Quay\Quay.Application\bin\Debug\AutoMapper.pdb
+C:\Projects\Quay\Quay.Application\bin\Debug\AutoMapper.xml
+C:\Projects\Quay\Quay.Application\bin\Debug\System.ValueTuple.xml
+C:\Projects\Quay\Quay.Application\bin\Debug\Quay.Infra.CrossCutting.Helpers.pdb
+C:\Projects\Quay\Quay.Application\obj\Debug\Quay.Application.csprojAssemblyReference.cache
+C:\Projects\Quay\Quay.Application\obj\Debug\Quay.Application.csproj.CopyComplete
+C:\Projects\Quay\Quay.Application\obj\Debug\Quay.Application.dll
+C:\Projects\Quay\Quay.Application\obj\Debug\Quay.Application.pdb

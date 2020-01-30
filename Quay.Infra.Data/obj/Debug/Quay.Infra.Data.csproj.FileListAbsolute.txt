@@ -1,0 +1,17 @@
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Infra.Data.dll.config
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Infra.Data.dll
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Infra.Data.pdb
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Domain.dll
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Domain.pdb
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Quay\Quay.Infra.Data\bin\Debug\Quay.Infra.CrossCutting.Helpers.pdb
+C:\Projects\Quay\Quay.Infra.Data\obj\Debug\Quay.Infra.Data.csprojAssemblyReference.cache
+C:\Projects\Quay\Quay.Infra.Data\obj\Debug\Quay.Infra.Data.Migrations.Initial.resources
+C:\Projects\Quay\Quay.Infra.Data\obj\Debug\Quay.Infra.Data.csproj.GenerateResource.cache
+C:\Projects\Quay\Quay.Infra.Data\obj\Debug\Quay.Infra.Data.csproj.CopyComplete
+C:\Projects\Quay\Quay.Infra.Data\obj\Debug\Quay.Infra.Data.dll
+C:\Projects\Quay\Quay.Infra.Data\obj\Debug\Quay.Infra.Data.pdb

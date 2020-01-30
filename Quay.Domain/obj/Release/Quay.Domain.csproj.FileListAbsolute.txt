@@ -1,0 +1,8 @@
+C:\Projects\Quay\Quay.Domain\bin\Release\Quay.Domain.dll
+C:\Projects\Quay\Quay.Domain\bin\Release\Quay.Domain.pdb
+C:\Projects\Quay\Quay.Domain\bin\Release\Quay.Infra.CrossCutting.Helpers.dll
+C:\Projects\Quay\Quay.Domain\bin\Release\Quay.Infra.CrossCutting.Helpers.pdb
+C:\Projects\Quay\Quay.Domain\obj\Release\Quay.Domain.csprojAssemblyReference.cache
+C:\Projects\Quay\Quay.Domain\obj\Release\Quay.Domain.csproj.CopyComplete
+C:\Projects\Quay\Quay.Domain\obj\Release\Quay.Domain.dll
+C:\Projects\Quay\Quay.Domain\obj\Release\Quay.Domain.pdb
